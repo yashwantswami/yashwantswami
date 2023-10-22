@@ -20,11 +20,33 @@ Welcome to My Profile! I'm a Data Engineer & Data Analyst.
       </td>
       <td width="20%" align="center">
         <span>Kafka</span><br><br><br>
-        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/kafka.svg">
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/kafka-icon.svg">
       </td>
       <td width="20%" align="center">
         <span>AWS</span><br><br><br>
         <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg">
+      </td>
+    </tr>
+     <tr valign="top">
+      <td width="20%" align="center">
+        <span>Airflow</span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/airflow.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Hadoop</span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/hadoop.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Cassandra</span><br><br><br>
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/cassandra.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Docker</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Power BI</span><br><br><br>
+        <img height="64px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
       </td>
     </tr>
     <tr valign="top">
