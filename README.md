@@ -80,8 +80,6 @@ Welcome to My Profile! I'm a Data Engineer & Data Analyst.
         <span>𝗠𝗼𝗻𝗴𝗼</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="20%" align="center">
         <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
