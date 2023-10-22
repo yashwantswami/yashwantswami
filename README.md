@@ -20,11 +20,11 @@ Welcome to My Profile! I'm a Data Engineer & Data Analyst.
       </td>
       <td width="20%" align="center">
         <span>Kafka</span><br><br><br>
-        <img height="64px" src="https://commons.wikimedia.org/wiki/File:Apache_kafka.svg#/media/File:Apache_kafka.svg">
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/kafka.svg">
       </td>
       <td width="20%" align="center">
         <span>AWS</span><br><br><br>
-        <img height="64px" src="https://icons8.com/icon/33039/amazon-web-services">
+        <img height="64px" src="https://github.com/gilbarbara/logos/blob/main/logos/aws.svg">
       </td>
     </tr>
     <tr valign="top">
