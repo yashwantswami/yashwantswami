@@ -1,16 +1,96 @@
-### Hi there 👋
+# Hi I'm Yashwant 👋
+Welcome to My Profile! I'm a Data Engineer & Data Analyst.
 
-<!--
-**yashwantswami/yashwantswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
-Here are some ideas to get you started:
+<table>
+  <tbody>
+     <tr valign="top">
+      <td width="20%" align="center">
+        <span>Python</span><br><br><br>
+        <img height="64px" src="https://www.python.org/static/community_logos/python-logo-generic.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>SQL</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗥𝗲𝗮𝗰𝘁𝗝𝗦</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗗𝗷𝗮𝗻𝗴𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗥𝗲𝗮𝗰𝘁𝗝𝗦</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗗𝗷𝗮𝗻𝗴𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>𝗙𝗹𝘂𝘁𝘁𝗲𝗿</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗚𝗶𝘁</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗗𝗼𝗰𝗸𝗲𝗿</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗠𝗼𝗻𝗴𝗼</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝘀𝗾𝗹</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact Me
+
+|  |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[Personal Website](https://yashwantswamiportfolio.netlify.app/)**                                                                                |
+|<a href="https://github.com/yashwantswami" style="margin-left: 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="32px" height="32px"></a> <a style="margin-left: 10px;" href="https://www.linkedin.com/in/yashwant-swami-10250b1a9/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" height="32px"></a> |
