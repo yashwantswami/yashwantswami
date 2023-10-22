@@ -11,16 +11,16 @@ Welcome to My Profile! I'm a Data Engineer & Data Analyst.
         <img height="64px" src="https://www.python.org/static/community_logos/python-logo-generic.svg">
       </td>
       <td width="20%" align="center">
-        <span>SQL</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span>𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝘀𝗾𝗹</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span>Apache Spark</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/apache-spark.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗥𝗲𝗮𝗰𝘁𝗝𝗦</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <span>Kafka</span><br><br><br>
+        <img height="64px" src="file:///C:/Users/chintu/Downloads/kafka-svgrepo-com.svg">
       </td>
       <td width="20%" align="center">
         <span>𝗗𝗷𝗮𝗻𝗴𝗼</span><br><br><br>
@@ -92,5 +92,5 @@ Welcome to My Profile! I'm a Data Engineer & Data Analyst.
 
 |  |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Personal Website](https://yashwantswamiportfolio.netlify.app/)**                                                                                |
-|<a href="https://github.com/yashwantswami" style="margin-left: 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="32px" height="32px"></a> <a style="margin-left: 10px;" href="https://www.linkedin.com/in/yashwant-swami-10250b1a9/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" height="32px"></a> |
+|       **[Personal Website](https://www.novypro.com/profile_projects/yashwantswami)**                                                                                |
+|<a href="https://github.com/yashwantswami" style="margin-left: 10px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="32px" height="32px"></a> <a style="margin-left: 10px;" href="https://www.linkedin.com/in/yashwant-swami-10250b1a9/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32px" height="32px"></a> <a style="margin-left: 10px;" href="https://yashwantswamiportfolio.netlify.app/"><img src="https://www.flaticon.com/free-icon/professional-portfolio_3476457?term=portfolio&page=1&position=6&origin=search&related_id=3476457" width="32px" height="32px"></a> |
