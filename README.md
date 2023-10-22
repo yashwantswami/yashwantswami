@@ -20,11 +20,11 @@ Welcome to My Profile! I'm a Data Engineer & Data Analyst.
       </td>
       <td width="20%" align="center">
         <span>Kafka</span><br><br><br>
-        <img height="64px" src="file:///C:/Users/chintu/Downloads/kafka-svgrepo-com.svg">
+        <img height="64px" src="https://commons.wikimedia.org/wiki/File:Apache_kafka.svg#/media/File:Apache_kafka.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗗𝗷𝗮𝗻𝗴𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
+        <span>AWS</span><br><br><br>
+        <img height="64px" src="https://icons8.com/icon/33039/amazon-web-services">
       </td>
     </tr>
     <tr valign="top">
