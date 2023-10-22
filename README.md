@@ -2,7 +2,7 @@
 
 # Welcome to my Github profile
 
-'m a versatile professional with expertise in both data engineering and data analysis. My passion lies in transforming raw data into actionable insights, and I bridge the gap between data infrastructure and analytics. 
+I'm a versatile professional with expertise in both data engineering and data analysis. My passion lies in transforming raw data into actionable insights, and I bridge the gap between data infrastructure and analytics. 
 
 I am always on the lookout for new challenges and opportunities to learn and grow in the field of data engineer. Connect with me on LinkedIn and Twitter to join me on my journey and stay updated on my latest projects and discoveries. <img src="https://media.giphy.com/media/eNAKa7nXenniRdDIu6/giphy.gif" width ='20'  >
 
