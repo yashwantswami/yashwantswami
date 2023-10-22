@@ -67,26 +67,14 @@ Welcome to My Profile! I'm a Data Engineer & Data Analyst.
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="20%" align="center">
-        <span>𝗗𝗷𝗮𝗻𝗴𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/django.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="20%" align="center">
-        <span>𝗙𝗹𝘂𝘁𝘁𝗲𝗿</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/flutter.svg">
-      </td>
-      <td width="20%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
+    </tr>
+    <tr valign="top">      
       <td width="20%" align="center">
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>𝗗𝗼𝗰𝗸𝗲𝗿</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
       <td width="20%" align="center">
         <span>𝗠𝗼𝗻𝗴𝗼</span><br><br><br>
@@ -94,10 +82,6 @@ Welcome to My Profile! I'm a Data Engineer & Data Analyst.
       </td>
     </tr>
     <tr valign="top">
-      <td width="20%" align="center">
-        <span>𝗣𝗼𝘀𝘁𝗴𝗿𝗲𝘀𝗾𝗹</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
       <td width="20%" align="center">
         <span>𝗕𝗼𝗼𝘁𝘀𝘁𝗿𝗮𝗽</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
