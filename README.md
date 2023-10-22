@@ -1,5 +1,8 @@
-# Hi I'm Yashwant 👋
-Welcome to My Profile! I'm a Data Engineer & Data Analyst.
+<h2> Hi, I'm Yashwant Swami! 👋 </h2><img align ='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  width="250">
+
+# Welcome to my Github profile
+
+I'm a Data Engineer & Data Analyst.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸
 
